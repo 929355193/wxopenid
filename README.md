@@ -3,6 +3,7 @@
 （无须申请，直接调用，适合web、pc、手机端，全平台兼容）<br>
 无缝衔接微信获取openid、微信头像地址、微信昵称信息<br>
 拿到openid之后，就可以自行操作更多身份验证的事情啦~~~<br>
+<a href="https://www.dongganboy.com/wxlogin.php">演示DEMO</a><br>
 <h2>1.获取临时编码和微信登录二维码base64图片</h2><br>
 <code>调用地址：https://www.qijinlai.com/wxlogin/wxlogin.php</code><br>
 将得到以下json（字符串）内容。<br>
@@ -29,5 +30,4 @@
 {"state":"0","webcode":"20191013*******","openid":"0","nicheng":"0","touxiang":"0","logintime":"0"}<br>
 {"state":"1","openid":"oCcAQ5S59***********","nicheng":"*********","touxiang":"https://wx.qlogo.cn/mmopen/vi_32/*************","logintime":"2019-01-01 16:59:16"}<br>
 <img class="alignnone size-full wp-image-328" src="https://raw.githubusercontent.com/929355193/wxopenid/master/6.jpg" alt="" width="625" height="205" /> <img class="alignnone size-full wp-image-329" src="https://raw.githubusercontent.com/929355193/wxopenid/master/7.jpg" alt="" width="794" height="227" /><br>
-欢迎大家有问题bug直接Issues反馈(*^__^*)<br>
-<a href="https://www.dongganboy.com/wxlogin.php">演示DEMO</a>
+欢迎大家有问题bug直接Issues反馈(*^__^*)
