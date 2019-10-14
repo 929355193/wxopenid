@@ -29,5 +29,5 @@
 {"state":"0","webcode":"20191013*******","openid":"0","nicheng":"0","touxiang":"0","logintime":"0"}<br>
 {"state":"1","openid":"oCcAQ5S59***********","nicheng":"*********","touxiang":"https://wx.qlogo.cn/mmopen/vi_32/*************","logintime":"2019-01-01 16:59:16"}<br>
 <img class="alignnone size-full wp-image-328" src="https://raw.githubusercontent.com/929355193/wxopenid/master/6.jpg" alt="" width="625" height="205" /> <img class="alignnone size-full wp-image-329" src="https://raw.githubusercontent.com/929355193/wxopenid/master/7.jpg" alt="" width="794" height="227" /><br>
-欢迎大家有问题bug直接Issues反馈(*^__^*)
+欢迎大家有问题bug直接Issues反馈(*^__^*)<br>
 <a href="https://www.dongganboy.com/wxlogin.php">演示DEMO</a>
